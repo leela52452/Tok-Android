@@ -1,4 +1,4 @@
-# Tok Android
+# Tok Android.
 
 
 > Make the world connect freely!
